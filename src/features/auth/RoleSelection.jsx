@@ -33,10 +33,6 @@ export default function RoleSelection() {
     <main className="auth-page auth-page--selection">
       <section className="auth-page__panel">
         <span className="auth-eyebrow">Step 1 of 2</span>
-        <h1>Who are you?</h1>
-        <p className="auth-page__description">
-          Choose how you want to use SIH 26042 on this device.
-        </p>
 
         <div className="auth-role-grid">
           {roles.map(({ id, title, description, icon: Icon, path }) => (
