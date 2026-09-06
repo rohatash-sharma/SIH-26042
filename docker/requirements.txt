@@ -1,0 +1,11 @@
+numpy
+scipy
+soundfile
+sentencepiece
+tokenizers
+huggingface-hub
+onnx
+onnxruntime
+ctranslate2
+transformers
+sacrebleu
