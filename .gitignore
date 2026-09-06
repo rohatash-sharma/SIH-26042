@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle/
 .idea/
 *.iml
@@ -19,3 +20,13 @@ models/tts/*
 !models/asr/README.md
 !models/nmt/**/README.md
 !models/tts/**/README.md
+=======
+node_modules/
+dist/
+dev-dist/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+>>>>>>> f492e19c7c56565ba2bb23cda320800e487c37c8

@@ -1,0 +1,9 @@
+export { default as StudentDashboard } from "./StudentDashboard";
+export { default as StudentSubjects } from "./StudentSubjects";
+export { default as StudentLearn } from "./StudentLearn";
+export { default as StudentRevision } from "./StudentRevision";
+export { default as StudentProgress } from "./StudentProgress";
+export { default as StudentProfile } from "./StudentProfile";
+export { default as StudentSettings } from "./StudentSettings";
+export { default as StudentRoutes } from "./studentRoutes";
+export { default as StudentSubjectHub } from "./StudentSubjectHub";

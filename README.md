@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SIH 26042 — Vernacular Classroom
 
 ## What this project is
@@ -272,3 +273,6 @@ Use:
 ## Production truth
 
 The repository is the application/runtime. Model weights are separate assets. The only complete end-to-end production feature that can be claimed after model installation and device validation is the target language for which a real NMT model and a real TTS model have both passed accuracy and latency tests.
+=======
+# SIH-26042
+>>>>>>> f492e19c7c56565ba2bb23cda320800e487c37c8
